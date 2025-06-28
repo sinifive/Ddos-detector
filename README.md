@@ -12,9 +12,6 @@ A GUI-based application for real-time Ethernet packet monitoring and DoS (Denial
 - 🗂️ **Manage excluded IPs** interactively
 - 🖥️ User-friendly **Tkinter-based GUI**
 
-## 🖼️ Screenshots
-
-> *(Add screenshots here if you'd like, e.g., main window, details panel, DoS alert popup)*
 
 ## ⚙️ Requirements
 
